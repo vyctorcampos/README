@@ -37,5 +37,6 @@ A **JAVA DEVELOPMENT** ***Enthusiast*** 🚀,
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vyctorcampos&count_private=true&theme=radical" alt="vyctorcampos" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyctorcampos&count_private=true&theme=radical" alt="vyctorcampos" />
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 ----
 Credit: [Jas-Script](https://github.com/Jas-Script)
