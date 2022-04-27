@@ -44,4 +44,4 @@ A **JAVA DEVELOPMENT** ***Enthusiast*** 🚀,
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 ----
-Credit: [Jas-Script](https://github.com/Jas-Script)
+
