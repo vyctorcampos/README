@@ -1,7 +1,6 @@
 <h3 title="hehehe"> Hi 👋, I'm João Vyctor!</h3>
 
 <a href="www.linkedin.com/in/vyctorcampos">
-  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
 <br />
