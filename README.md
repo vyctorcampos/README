@@ -5,8 +5,8 @@
 <br />
 <br />
 
-A **JAVA DEVELOPMENT** ***Enthusiast*** 🚀,
-  <br/> **future software engineer**👩‍💻. 
+A **JAVA DEVELOPMENT**  🚀,
+  <br/> ** Software developer**👩‍💻. 
  
 
   <img align="right" alt="GIF" width="320" height="205"  src="https://www.reactiongifs.us/wp-content/uploads/2018/06/giphy-2-1.gif" />
