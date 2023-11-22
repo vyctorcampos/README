@@ -1,22 +1,21 @@
-<h3 title="hehehe"> Hi 👋, I'm João Vyctor!</h3>
+<h3 title="hehehe"> Olá, sou João Vyctor!</h3>
 
 <a href="www.linkedin.com/in/vyctorcampos">
 </a>
 <br />
 <br />
 
-A **JAVA DEVELOPMENT**  🚀,
-  <br/> ** Software developer**👩‍💻. 
- 
-
-  <img align="right" alt="GIF" width="320" height="205"  src="https://www.reactiongifs.us/wp-content/uploads/2018/06/giphy-2-1.gif" />
- 
- 
+A **JAVA AND JAVASCRIPT DEVELOPER**  🚀,
+  <br/> ** Fullstack Developer**👩‍💻. 
+  
  
 **About Me!**
 
 - 🌱 I'm exploring JAVA with SPRING BOOT and REACT.JS.
 - 💻 Working with full stack software developer java / javascript.
+- 👨‍💻 Love programming.
+- 🎮 Gamer.
+- 🎯 Focused.
 
 
 
@@ -27,7 +26,7 @@ A **JAVA DEVELOPMENT**  🚀,
 [<img alt="CSS3" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img alt="JavaScript" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://sass-lang.com/)
 [<img alt="React" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://pt-br.reactjs.org/)
-[<img alt="SQL" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://www.microsoft.com/pt-br/sql-server/)
+[<img alt="SQL" width="35" src="https://user-images.githubusercontent.com/33158051/103925017-e7673b80-50e4-11eb-9379-ceb82e3f382c.png" />]([https://www.microsoft.com/pt-br/sql-server/](https://docs.spring.io/spring-framework/reference/index.html))
 [<img alt="MySQL" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://www.mysql.com/)
 [<img alt="Postgresql" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://www.postgresql.org/)
 
