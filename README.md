@@ -1,4 +1,4 @@
-<h3 title="hehehe"> Olá, sou João Vyctor!</h3>
+<h3 title="hehehe"> Hi, i´m João Vyctor!</h3>
 
 <a href="www.linkedin.com/in/vyctorcampos">
 </a>
@@ -26,8 +26,8 @@ A **JAVA AND JAVASCRIPT DEVELOPER**  🚀,
 [<img alt="CSS3" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img alt="JavaScript" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://sass-lang.com/)
 [<img alt="React" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://pt-br.reactjs.org/)
-[<img alt="SQL" width="35" src="https://user-images.githubusercontent.com/33158051/103925017-e7673b80-50e4-11eb-9379-ceb82e3f382c.png" />]([https://www.microsoft.com/pt-br/sql-server/](https://docs.spring.io/spring-framework/reference/index.html))
-[<img alt="MySQL" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://www.mysql.com/)
+[<img alt="Spring" width="35" src="https://image.pngaaa.com/238/5473238-middle.png" />]([https://www.microsoft.com/pt-br/sql-server/](https://docs.spring.io/spring-framework/reference/index.html))
+[<img alt="MySQL" width="35" src="https://img2.gratispng.com/20180519/svv/kisspng-mysql-database-dump-computer-icons-5b00379f39bc81.8835568115267408952365.jpg" />](https://www.mysql.com/)
 [<img alt="Postgresql" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://www.postgresql.org/)
 
 ### Social Network
